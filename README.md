@@ -1,7 +1,8 @@
-# jogo_2D
-jogo para os alunos treinarem o versionamento de código
+# Jogo_2D
+Jogo para os alunos treinarem o versionamento de código.
 
-25/08 - hoje aprendi sobre versionamento e a mexer na github
+25/08 - Todos os dias deverão ter um relatorio da aula e o que foi utilizado no Git e na Unity Junto a documentação.
 
 
-27/08 - hoje aprendemos sobre GameDisign e e seus tipos hoje aprendemos sobre mecânicas 
+teste
+123
