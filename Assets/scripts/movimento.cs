@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class movimento : MonoBehaviour
 {
@@ -23,7 +24,7 @@ public class movimento : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
-            rb.AddForce(new Vector2(0f, 5f), ForceMode2D.Impulse); //Vai aplicar uma for�a vertical ao Rigidbody2D
+            rb.AddForce(new Vector2(5f, 9f), ForceMode2D.Impulse); //Vai aplicar uma for�a vertical ao Rigidbody2D
         }
 
     }
@@ -33,6 +34,10 @@ public class movimento : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true; //Vai reconhecer quando o jogador estiver no ch�o
+        }
+        if (collision.collider.CompareTag("Dano")) 
+        {
+            SceneManager.LoadScene("comite"); // Vai fazer o jogador voltar para cena comite
         }
     }
 
