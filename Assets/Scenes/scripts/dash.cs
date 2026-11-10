@@ -20,6 +20,8 @@ public class dash : MonoBehaviour
 
     private float direction = 1f;
 
+    public MenuScene menu;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -114,7 +116,7 @@ public class dash : MonoBehaviour
 
         if (collision.collider.CompareTag("Dano"))
         {
-            SceneManager.LoadScene("comite");
+            menu.MostrarGameOver(); 
         }
     }
 
