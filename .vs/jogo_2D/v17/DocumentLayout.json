@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ALUNO\\Documents\\repositorios jhuan\\jogo_2D\\Jogo2Dplataforma\\jogo_2D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32D8BE8A-C9CA-2FB0-E606-9492CA030ED0}|Assembly-CSharp.csproj|C:\\Users\\ALUNO\\Documents\\repositorios jhuan\\jogo_2D\\Jogo2Dplataforma\\jogo_2D\\assets\\scenes\\scripts\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32D8BE8A-C9CA-2FB0-E606-9492CA030ED0}|Assembly-CSharp.csproj|c:\\users\\aluno\\documents\\repositorios jhuan\\jogo_2d\\jogo2dplataforma\\jogo_2d\\assets\\scenes\\scripts\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32D8BE8A-C9CA-2FB0-E606-9492CA030ED0}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32D8BE8A-C9CA-2FB0-E606-9492CA030ED0}|Assembly-CSharp.csproj|c:\\users\\aluno\\documents\\repositorios jhuan\\jogo_2d\\jogo2dplataforma\\jogo_2d\\assets\\scenes\\scripts\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32D8BE8A-C9CA-2FB0-E606-9492CA030ED0}|Assembly-CSharp.csproj|C:\\Users\\ALUNO\\Documents\\repositorios jhuan\\jogo_2D\\Jogo2Dplataforma\\jogo_2D\\assets\\scenes\\scripts\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32D8BE8A-C9CA-2FB0-E606-9492CA030ED0}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,8 +34,7 @@
               "ViewState": "AgIAAGcAAAAAAAAAAAAkwHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T14:39:47.385Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Assets\\Scenes\\scripts\\MenuScene.cs",
               "ToolTip": "C:\\Users\\ALUNO\\Documents\\repositorios jhuan\\jogo_2D\\Jogo2Dplataforma\\jogo_2D\\Assets\\Scenes\\scripts\\MenuScene.cs",
               "RelativeToolTip": "Assets\\Scenes\\scripts\\MenuScene.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-10T13:12:13.392Z",
               "EditorCaption": ""
